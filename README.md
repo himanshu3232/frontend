@@ -15,6 +15,6 @@ This project demonstrates the use of HTML and different technologies to create t
 
 ![Html Day2 Assignment](results/day1-assignment2.png)
 
-### 3️⃣ HTML task2 results
+### 3️⃣ HTML task3 results
 
 ![Html Day2 Assignment](results/day1-assignment3.png)
