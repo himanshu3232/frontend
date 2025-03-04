@@ -1,0 +1,45 @@
+html{
+    background-color: rgb(231, 222, 241);
+}
+
+.header{
+    color: #ef3636;
+    display: flex;
+    justify-content: center;
+    padding: 1rem;
+    margin: 1rem;
+}
+
+nav ul {
+    list-style: none;
+    text-decoration: none;
+}
+
+nav ul a{
+    color: blueviolet;
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+}
+
+.content{
+    display: flex;
+}
+
+#main{
+    display: grid;
+    grid-template-columns: 2fr 1fr 0.5fr;
+    padding: 1rem;
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+    padding: 1rem;
+}
+
+.image{
+    max-width: 20rem;
+    max-height: auto;
+    margin: 0 auto;
+}
