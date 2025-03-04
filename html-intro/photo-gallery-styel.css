@@ -3,7 +3,7 @@ main{
     grid-template-columns: 1fr 1fr 1fr;
 }
 
-main img{
+.card-img img{
     width: 24rem;
     height: 14rem;
     margin: 1rem;
