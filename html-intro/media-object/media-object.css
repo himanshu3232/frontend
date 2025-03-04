@@ -1,0 +1,21 @@
+img{
+    width: 8rem;
+    height: auto;
+}
+.header{
+    padding: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: stretch;
+}
+
+.body{
+    padding: 1rem;
+}
+
+
+.content{
+    padding: 1rem;
+    max-width: 35rem;
+    border: 1px solid black;
+}
