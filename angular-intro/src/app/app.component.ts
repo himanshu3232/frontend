@@ -8,4 +8,7 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'angular-intro';
   imgUrl = 'assets/BL_logo_square_jpg.jpg';
+  url = 'https://www.bridgelabz.com/';
+
+ 
 }
