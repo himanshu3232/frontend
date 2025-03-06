@@ -1,5 +1,9 @@
 <img [src]="imgUrl" (click)="onClick($event)" alt="bridgelabz logo"/>
 <br/>
-<input (change)="onChange($event)" type="text"/>
+
+<div class="input">
+    <input (input)="onInput($event)" type="text"/>
+    <p *ngIf="!isValid" class="invalid-input">Invalid input!</p>
+</div>
 
 <p>Hello, {{ this.userName }} from BridgeLabz!</p>
