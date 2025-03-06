@@ -32,6 +32,10 @@ This project demonstrates the use of HTML and different technologies to create t
 
 ![Angular UC2 Assignment](results/day2-assignments2.png)
 
-### 3️⃣ Angular uc2 results
+### 3️⃣ Angular uc3 results
 
 ![Angular UC3 Assignment](results/day2-assignments3.png)
+
+### 4️⃣ Angular uc4 results
+
+![Angular UC4 Assignment](results/day2-assignments4.png)
