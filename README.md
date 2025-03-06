@@ -1,6 +1,7 @@
 # Project Title
 
 ## Overview
+
 This project demonstrates the use of HTML and different technologies to create the view part of the application.
 
 ---
@@ -25,8 +26,12 @@ This project demonstrates the use of HTML and different technologies to create t
 
 ### 1️⃣ Angular uc1 results
 
-![Angular UC! Assignment](results/day2-assignments.png)
+![Angular UC1 Assignment](results/day2-assignments.png)
 
 ### 2️⃣ Angular uc2 results
 
-![Angular UC! Assignment](results/day2-assignments2.png)
+![Angular UC2 Assignment](results/day2-assignments2.png)
+
+### 3️⃣ Angular uc2 results
+
+![Angular UC3 Assignment](results/day2-assignments3.png)

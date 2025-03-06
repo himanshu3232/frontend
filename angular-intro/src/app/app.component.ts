@@ -9,6 +9,7 @@ export class AppComponent {
   title = 'angular-intro';
   imgUrl = 'assets/BL_logo_square_jpg.jpg';
   url = 'https://www.bridgelabz.com/';
-
- 
+  onClick = (e : any) => {
+    window.open(this.url, '_blank');
+  }
 }
